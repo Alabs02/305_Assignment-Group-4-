@@ -1,0 +1,9 @@
+{
+  "name": "305assignment",
+  "version": "1.0.0",
+  "description": "CSC 305 Assignments - Algorithms",
+  "main": "main.dart",
+  "repository": "https://github.com/Alabs02/305_Assignment-Group-4-.git",
+  "author": "Alabura Usman <alabson.inc@gmail.com>",
+  "license": "MIT"
+}
